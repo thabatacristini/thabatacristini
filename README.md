@@ -1,7 +1,7 @@
 ### Olá pessoal, eu sou a Thabata, estudante e professora de programação e tecnologia 🤗
 
-- 🔭 Professora de programação para crianças na 🚀BYJU's Future School🚀
-- 👩🏻‍💻 Cursando Análise e Desenvolvimento de Sistemas (Estácio) e Técnico de Desenvolvimento de Sistemas (Centro Paula Souza)
+- 🔭 Professora de programação para crianças 
+- 👩🏻‍💻 Cursando Tecnologia da Informação na UFMS
 - 😄 Pronomes: Ela/dela
 - ❤️ Outros fatos sobre mim: gosto de escrever poesia, cozinhar e estudar ciências, biologia, comunicação assertiva e relações humanas. 
 
