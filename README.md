@@ -2,6 +2,7 @@
 
 - 🔭 Já fui professora de Ciências e de Programação
 - 👩🏻‍💻 Cursando Tecnologia da Informação na UFMS
+- 💾 Trabalho como Analista de Backup na TIVIT
 - 😄 Pronomes: Ela/dela
 - ❤️ Outros fatos sobre mim: sou uma tia muito coruja, gosto de escrever poesia, cozinhar, ler e estudar assuntos diversos como: comunicação assertiva, comportamento humano, ciências, biologia e tecnologia, é claro! 
 
